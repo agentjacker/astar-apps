@@ -12,7 +12,7 @@
   "dependencies": {
     "@acala-network/type-definitions": "^4.1.5",
     "@plasm/types": "^1.5.4-3",
-    "@polkadot/api": "^7.12.1",
+    "@polkadot/api": "^7.15.1",
     "chai": "^4.3.6",
     "chai-as-promised": "^7.1.1",
     "mocha": "^9.2.2",
