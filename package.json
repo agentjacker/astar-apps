@@ -61,7 +61,7 @@
     "quasar": "^2.3.3",
     "query-string": "^7.1.0",
     "reflect-metadata": "^0.1.13",
-    "secp256k1": "^4.0.2",
+    "secp256k1": "^4.0.4",
     "serve-static": "^1.14.1",
     "serverless-http": "^2.7.0",
     "store": "^2.0.12",
@@ -75,7 +75,7 @@
     "vue3-jazzicon": "^0.1.2",
     "vue3-recaptcha2": "^1.7.0",
     "vuex": "^4.0.1",
-    "web3": "^1.7.3"
+    "web3": "^1.10.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
