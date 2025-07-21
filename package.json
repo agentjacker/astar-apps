@@ -67,7 +67,7 @@
     "store": "^2.0.12",
     "stream": "^0.0.2",
     "v-odometer": "^2.0.1",
-    "vue-i18n": "^9.0.0-beta.0",
+    "vue-i18n": "^9.14.5",
     "vue-js-progress": "^1.0.2",
     "vue3-autocounter": "^1.0.6",
     "vue3-click-away": "^1.2.4",
@@ -75,7 +75,7 @@
     "vue3-jazzicon": "^0.1.2",
     "vue3-recaptcha2": "^1.7.0",
     "vuex": "^4.0.1",
-    "web3": "^1.7.3"
+    "web3": "^4.0.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
